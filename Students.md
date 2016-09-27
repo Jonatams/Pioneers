@@ -8,4 +8,6 @@
 
 - [Anne de Bekker](Students/annedebekker/README.md)
 
+- [Remo Deijns](Students/RemoDeijns/README.md)
+
 Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
