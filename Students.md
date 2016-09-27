@@ -5,4 +5,5 @@
 ## Afternoon: 2A
 
 Anne de Bekker: https://github.com/ArtezGDA/Pioneers/blob/master/annedebekker/README.md
-Merel IJPelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar
+
+Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar
