@@ -4,4 +4,4 @@
 
 ## Afternoon: 2A
 
-https://github.com/ArtezGDA/Pioneers/blob/master/annedebekker/README.md
+Anne de Bekker: https://github.com/ArtezGDA/Pioneers/blob/master/annedebekker/README.md
