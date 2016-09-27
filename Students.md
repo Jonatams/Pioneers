@@ -2,5 +2,6 @@
 
 ## Morning: 2B
 
-## Afternoon: 2A
+- [Dirk van Oosterbosch](Students/Dirk/README.md)
 
+## Afternoon: 2A
