@@ -10,4 +10,6 @@
 
 - [Remo Deijns](Students/RemoDeijns/README.md)
 
+- [Jodie Wijermars](Students/Jodie/README.md)
+
 Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
