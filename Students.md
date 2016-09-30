@@ -6,8 +6,8 @@
 - [Ilse koop](Students/IlseKoop/README.md)
 
 <<<<<<< HEAD
-- [Carmen Steenbrink] (Students/CarmenSteenbrink/README.md)
-=======
+- [Carmen Steenbrink](Students/CarmenSteenbrink/README.md)
+======
 - [Sharon Hoogers](Students/SharonHoogers/README.md)
 >>>>>>> origin/master
 
