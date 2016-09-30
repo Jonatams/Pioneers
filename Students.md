@@ -13,3 +13,5 @@
 - [Jodie Wijermars](Students/Jodie/README.md)
 
 Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
+
+- [Sharon Hoogers](Students/SharonHoogers/README.md)
