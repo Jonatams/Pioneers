@@ -3,6 +3,7 @@
 - [Dirk van Oosterbosch](Students/Dirk/README.md)
 
 ## Morning: 2B
+- [Ilse koop](Students/IlseKoop/README.md)
 
 <<<<<<< HEAD
 - [Carmen Steenbrink] (Students/CarmenSteenbrink/README.md)
