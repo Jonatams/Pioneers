@@ -4,7 +4,11 @@
 
 ## Morning: 2B
 
+<<<<<<< HEAD
 - [Carmen Steenbrink] (Students/CarmenSteenbrink/README.md)
+=======
+- [Sharon Hoogers](Students/SharonHoogers/README.md)
+>>>>>>> origin/master
 
 ## Afternoon: 2A
 
@@ -15,5 +19,3 @@
 - [Jodie Wijermars](Students/Jodie/README.md)
 
 Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
-
-- [Sharon Hoogers](Students/SharonHoogers/README.md)
