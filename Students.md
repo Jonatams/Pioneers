@@ -3,6 +3,12 @@
 - [Dirk van Oosterbosch](Students/Dirk/README.md)
 
 ## Morning: 2B
+- [Ilse koop](Students/IlseKoop/README.md)
+
+- [Carmen Steenbrink](Students/CarmenSteenbrink/README.md)
+
+- [Sharon Hoogers](Students/SharonHoogers/README.md)
+
 
 - [Iris de Graaf](Students/IrisdeGraaf/README.md)
 
