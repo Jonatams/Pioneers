@@ -4,6 +4,9 @@
 
 ## Morning: 2B
 
+- [Jody Peters](students/JodyPeters/README.md)
+
+
 ## Afternoon: 2A
 
 - [Anne de Bekker](Students/annedebekker/README.md)
