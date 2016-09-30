@@ -4,6 +4,8 @@
 
 ## Morning: 2B
 
+- [Iris de Graaf](Students/IrisdeGraaf/README.md)
+
 ## Afternoon: 2A
 
 - [Anne de Bekker](Students/annedebekker/README.md)
