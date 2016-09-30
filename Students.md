@@ -9,13 +9,11 @@
 
 - [Sharon Hoogers](Students/SharonHoogers/README.md)
 
-
-<<<<<<< HEAD
 - [Iris de Graaf](Students/IrisdeGraaf/README.md)
-=======
+
 - [Jody Peters](students/JodyPeters/README.md)
 
->>>>>>> origin/master
+
 
 ## Afternoon: 2A
 
