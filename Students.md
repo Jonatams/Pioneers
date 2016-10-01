@@ -15,6 +15,9 @@
 
 - [Marlou Bleijenberg](Students/MarlouBleijenberg/README.md)
 
+- [Jesse van Meel](Students/JessevanMeel/README.md)
+
+
 
 
 ## Afternoon: 2A
