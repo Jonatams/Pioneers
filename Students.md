@@ -28,4 +28,6 @@
 
 - [Jodie Wijermars](Students/Jodie/README.md)
 
+- [Michelle de Leeuw](Students/MichelledeLeeuw/README.md)
+
 Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
