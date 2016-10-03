@@ -17,7 +17,7 @@
 
 - [Jesse van Meel](Students/JessevanMeel/README.md)
 
-- [Marleen van Zalm](Students/Marleenvanzalm/README.md)
+- [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
 
 
 
