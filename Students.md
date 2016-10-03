@@ -26,6 +26,8 @@
 
 - [Anne de Bekker](Students/annedebekker/README.md)
 
+- [Einar Anddersen](Students/EinarAndersen/README.md)
+
 - [Remo Deijns](Students/RemoDeijns/README.md)
 
 - [Jodie Wijermars](Students/Jodie/README.md)
