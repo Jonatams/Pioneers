@@ -19,6 +19,8 @@
 
 - [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
 
+- [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
+
 
 
 
