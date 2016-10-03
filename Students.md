@@ -40,4 +40,7 @@
 
 - [Michelle de Leeuw](Students/MichelledeLeeuw/README.md)
 
-Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
+- [Merel IJpelaar] (Students/MerelIJpelaar/README.md)
+
+- [Jonathan Tams] (Students/JonathanTams/README.md)
+
